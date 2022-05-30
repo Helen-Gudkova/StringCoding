@@ -1,0 +1,2 @@
+# StringCoding
+задача 1 
