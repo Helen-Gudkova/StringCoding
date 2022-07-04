@@ -2,7 +2,7 @@ public class StringCoding {
     private String sourceString;
 
     public void setSourceString(String str) {
-        sourceString = str;
+        this.sourceString = str;
     }
 
     public String getDestinationString() {
